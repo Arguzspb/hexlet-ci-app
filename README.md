@@ -1,7 +1,6 @@
 [![CI](https://github.com/Arguzspb/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/Arguzspb/hexlet-ci-app/actions/workflows/main.yml)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Arguzspb/hexlet-ci-app/badge.svg)]
-(https://snyk.io/test/github/Arguzspb/hexlet-ci-app)
+[![Known Vulnerabilities](https://snyk.io/test/github/Arguzspb/hexlet-ci-app/badge.svg)](https://snyk.io/test/github/Arguzspb/hexlet-ci-app)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
